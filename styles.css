@@ -1,6 +1,7 @@
 body{
     background-color: rgba(0,28,38); 
     background-image: url(./assets/blueprint.png);
+    font-family: Microsoft JhengHei;
 }
 .nav > li{
     padding-left:10px;
